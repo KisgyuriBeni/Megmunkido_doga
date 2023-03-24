@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    border-bottom: 1px solid black;
+    font-size: 2rem;
+    font-family: 'Times New Roman';
+    padding: 10px;    
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman';
+}
